@@ -1,0 +1,79 @@
+body { 
+color: black;
+margin: 10px 10px 10px 10px;
+}
+
+.sport {
+    color: black;
+    text-align: center;
+    margin: auto;
+    }
+
+.header{
+    background-image: url("images/back.jpg");
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 170px;
+    padding-right: 149px;
+    margin-left: 385;
+    color: white;
+    font: sans-serif;
+    font-weight: bold;
+    
+    
+}
+
+.picture{
+    background-image: url("images/paper.jpg");
+    padding: 10px;
+    width: 120px;
+}
+
+.adv {
+    float: right; 
+    border: 1px solid #333; 
+    padding: 7px; 
+    margin: 10px 0 5px 5px; 
+    background: #f0f0f0; 
+   }
+.adv-note {
+    margin: 0 auto 5px;
+   }
+
+.td {
+padding: 1px;
+}
+TD.image {
+background: #ffffff;
+}
+TD.content {
+background: #808080;
+}
+TD.menu {
+width: 100px;
+background: #808080;
+color: #808080;
+vertical-align: top;
+}
+.leftimg {
+float: left;
+margin: 7px 0 7px 7 px;
+}
+.rightimg {
+float: right;
+margin: 7px 0 7px 7px;
+}
+.imgblock {
+position: relative;
+display: inline-block
+}
+.imgblock img {
+height: 55px;
+width: 500px;
+}
+.imgblock span {
+background: rgba(0, 0, 0, 0.1);
+color: #fff;
+position: absolute;
+top: 3px;
+}
