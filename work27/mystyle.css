@@ -1,0 +1,23 @@
+body {
+    background-image: url(images/back.jpg);
+    color: rgb(150, 142, 168);
+}
+
+h1 {
+    color: rgb(209, 139, 194)
+}
+
+.name {
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(139, 199, 209);
+}
+
+.leftimg {
+    float:left; 
+    margin: 10px 10px 10px 0;
+}
+.rightimg {
+    float: right; 
+    margin: 10px 10px 10px 0;
+}
