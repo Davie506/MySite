@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-size: 19px;
+}
+
+p {
+    margin: 5px;
+    text-indent: 20px;
+}
+
+#header{
+    background: url("images/header.jpg") no-repeat;
+    height: 80px;
+    padding-left: 180px;
+}
+
+#pogoda{
+    width: 140px;
+    margin-left: 10px;
+    float: left;
+}
+
+#photo{
+    width: 220px;
+    margin-left: 10px;
+    float: right;
+}
+
+#content{
+    margin-left: 140px;
+    margin-right: 220px;
+}
+
+#source{
+    text-align: right;
+    font-style: italic;
+    margin-right: 240px;
+}
+
+#footer{
+    background-color: #cccccc;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    clear: both;
+}
