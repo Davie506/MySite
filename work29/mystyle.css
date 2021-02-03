@@ -1,20 +1,22 @@
 body { 
 color: black;
 margin: 10px 10px 10px 10px;
+font-size: 20px;
 }
 
 .sport {
     color: black;
     text-align: center;
     margin: auto;
+    font-size: 20px;
     }
 
 .header{
     background-image: url("images/back.jpg");
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 170px;
-    padding-right: 149px;
+    padding-left: 120px;
+    padding-right: 138px;
     margin-left: 385;
     color: white;
     font: sans-serif;
