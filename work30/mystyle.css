@@ -27,6 +27,7 @@ p {
 #photo{
     width: 220px;
     margin-left: 10px;
+    margin-bottom: 10px;
     float: right;
 }
 
@@ -42,8 +43,10 @@ p {
 }
 
 #footer{
+    margin-top: auto;
     background-color: #cccccc;
     text-align: center;
+    margin-top: 5px;
     padding-top: 5px;
     padding-bottom: 10px;
     clear: both;

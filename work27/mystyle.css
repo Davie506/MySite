@@ -1,10 +1,15 @@
 body {
     background-image: url(images/back.jpg);
     color: rgb(150, 142, 168);
+    font-size: 20px;
 }
 
 h1 {
     color: rgb(209, 139, 194)
+}
+
+h3 {
+    margin-left: 150px;
 }
 
 .name {
@@ -13,11 +18,16 @@ h1 {
     color: rgb(139, 199, 209);
 }
 
+p {
+    margin-left: 170px;
+    margin-right: 200px;
+}
+
 .leftimg {
     float:left; 
-    margin: 10px 10px 10px 0;
+    margin-right: 5px 20px;
 }
 .rightimg {
     float: right; 
-    margin: 10px 10px 10px 0;
+    margin: 5px 20px;
 }
